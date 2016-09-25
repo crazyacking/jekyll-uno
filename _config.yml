@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: 生活随笔
+description: '人生不过一句陶渊明'
+url: 'http://crazyacking.cnblogs.com'
+baseurl: '/life/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'crazyacking'
+  email: crazyacking@gmail.com
+  twitter_username: crazyacking
+  facebook_username: crazyacking
+  github_username:  crazyacking
+  linkedin_username:  crazyacking
 
 defaults:
   -
