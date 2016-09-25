@@ -1,7 +1,7 @@
 # Site settings
 title: 生活随笔
 description: '人生不过一句陶渊明'
-url: 'http://crazyacking.cnblogs.com'
+url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/life/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
